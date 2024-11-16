@@ -140,10 +140,10 @@ def identify_security_patterns(log_stream, tokenizer):
 
 ## Future Enhancements
 
-[] Support for more cloud provider log formats
-[] Integration with popular SIEM systems
-[] Real-time log processing capabilities
-[] Custom training data integration
-[] Performance optimizations for large-scale deployment
+-[ ] Support for more cloud provider log formats
+-[ ] Integration with popular SIEM systems
+-[ ] Real-time log processing capabilities
+-[ ] Custom training data integration
+-[ ] Performance optimizations for large-scale deployment
 
 
